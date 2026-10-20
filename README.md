@@ -1,0 +1,1 @@
+Developed a frontend website using  Bootstrap to create a clean and user-friendly interface. Utilized Bootstrap components, grid layouts, and styling utilities to design a structured webpage that adapts to different screen sizes. This project helped me improve my frontend development skills and understand responsive web design and efficient UI development using Bootstrap.
